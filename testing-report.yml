@@ -52,12 +52,12 @@
 # TC11
 - summary: |
     Успешное добавление товаров в корзину
-  status: pass
+  status: fail
 
 # TC12
 - summary: |
     Успешный просмотр корзины
-  status: pass
+  status: fail
 
 # TC13
 - summary: |
